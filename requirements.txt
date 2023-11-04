@@ -1,0 +1,8 @@
+irl_maxent==0.1.0
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.1.2
+scikit_learn==1.2.2
+tensorflow==2.13.0rc1
+tensorflow_macos==2.13.0rc1
+tqdm==4.65.0
