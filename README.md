@@ -6,9 +6,9 @@ This repository contains code for running experiments in the paper: IRL Making a
 
 ## Experiment Notebooks
 
-1. `WHIRL_risk_experiments.ipynb`: This notebook corresponds to the experiments associated with Figure 5 in the paper. You can use this notebook to run experiments related to risk analysis. It does not include real-world data due to authorization limitations. However, you will find functions for generating synthetic data within the notebook.
+1. `WHIRL_risk_experiments.ipynb`: This notebook corresponds to the experiments associated with Figure 4, 5, 6,and 7 in the paper. You can use this notebook to run experiments related to risk analysis. It does not include real-world data due to authorization limitations. However, you will find functions for generating synthetic data within the notebook.
 
-2. `WHIRL_state_experiments.ipynb`: This notebook corresponds to the experiments associated with Figure 9 in the paper. It allows you to run experiments related to state analysis. Like the previous notebook, it does not include real-world data but provides functions for generating synthetic data.
+2. `WHIRL_state_experiments.ipynb`: This notebook corresponds to the experiments associated with Figure 8 and 9 in the paper. It allows you to run experiments related to state analysis. Like the previous notebook, it does not include real-world data but provides functions for generating synthetic data.
 
 ## Getting Started
 
