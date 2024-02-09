@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for running experiments in the paper: IRL Making a Difference “IRL”: Inverse Reinforcement Learning for Restless Multi-Armed Bandits with Applications in Maternal and Child Health. The code is organized into two Jupyter Notebook files: `risk_experiments.ipynb` and `state_experiments.ipynb`. These notebooks allow you to recreate the experiments presented in the paper.
+This repository contains code for running experiments in the paper: IRL Making a Difference “IRL”: Inverse Reinforcement Learning for Restless Multi-Armed Bandits with Applications in Maternal and Child Health. The code is organized into two Jupyter Notebook files: `WHIRL_risk_experiments.ipynb` and `WHIRL_state_experiments.ipynb`. These notebooks allow you to recreate the 2 main experiments presented in the paper. For the other experiments in the paper, you can easily modify this code to also test those out by modifying the `source` and `target` functions
 
 ## Experiment Notebooks
 
